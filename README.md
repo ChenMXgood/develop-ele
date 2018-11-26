@@ -1,6 +1,6 @@
 # sell
 
-> 饿了吗 APP
+> 好吃吗 APP
 
 ## Build Setup
 
